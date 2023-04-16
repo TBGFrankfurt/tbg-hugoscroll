@@ -28,7 +28,7 @@ header_menu: true
 
 ##### Vertretungsberechtigte
 
-- Hannes Gehring
+- Hannes Gehrig
 - Christian Tries
 - Daniel Ebling
 
