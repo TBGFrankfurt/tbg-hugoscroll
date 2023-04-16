@@ -38,4 +38,4 @@ Nahe U-Bahn-Station Gwinnerstraße (U4, U7), Parkplätze auf der Straße sind in
 Wir haben einen Monatsbeitrag wenn man Vereinsmitglied werden möchte oder einen Tagesbeitrag von 10€, der an der Teilnahme eines Treffens 'berechtigt'. 
 Das erste mal vorbeischauen ist allerdings gratis.
 
-Solltest Du Mitglied werden, sprich uns an und bring das ausgefüllte [Antragsformular](documents/Aufnahmeantrag_TBG.pdf) mit.
+Solltest Du Mitglied werden, sprich uns an und bring das ausgefüllte [Antragsformular](documents/Aufnahmeantrag.pdf) & [Datenschutzverordnung](documents/DSGVO.pdf) mit.

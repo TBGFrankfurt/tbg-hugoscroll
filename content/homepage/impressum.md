@@ -30,7 +30,7 @@ header_menu: true
 
 - Hannes Gehring
 - Christian Tries
-- XXX
+- Daniel Ebling
 
 ##### Kontakt
 
@@ -40,7 +40,7 @@ header_menu: true
 ##### Dokumente
 
 - [Satzung des Vereins Tabletop- und Boardgamegemeinschaft Frankfurt - Stand 25-05-20 (pdf)](documents/Satzung_des_Vereins_TBG.pdf)
-- [Aufnahmeantrag (pdf)](documents/Aufnameantrag_TBG.pdf)
+- [Aufnahmeantrag (pdf)](documents/Aufnameantrag.pdf) & [Datenschutzverordnung (pdf)](documents/DSGVO.pdf)
 
 #### Datenschutzerklärung
 
