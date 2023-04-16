@@ -22,12 +22,12 @@ header_menu: true
 
 ##### Terminal Entertainment
 
-{{< figure src="images/t3-ffm.png" width="50%">}}
+[{{< figure src="images/t3-ffm.png" width="50%">}}](https://t3ffm.com/ "Auf zur Webseite von Terminal Entertainment")
 **Support Your Local Hobby Shop!**  
 Mit seinen reichhaltigem Angebot und guten Kundensupport bietet der T3 Frankfurt alles was man so braucht. Durch seine gute Lage an der Konstablerwache ist er aus jedem Teil Frankfurts hervorragend zu erreichen.
 
 ##### QuestHub!
 
-{{< figure src="images/questhub-ffm.png" width="50%">}}
+[{{< figure src="images/questhub-ffm.png" width="50%">}}](https://questhub-frankfurt.myshopify.com/ "Auf zur Webseite vom QuestHub!")
 **Support Your Local Hobby Shop!**  
 Das QuestHub! hat in Frankfurt grade neu auf gemacht und bereichert unsere Gegend mit einem Tabletopstore in den man auch spielen kann und soll! Fußläufig von Galluswarte ist er auch gut erreichbar.

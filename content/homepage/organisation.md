@@ -29,7 +29,7 @@ Wann eine Clubtreffung stattfindet könnt ihr immer im Discord unter „Clubtref
 
 Wir sind gerade in neue Räumlichkeiten umgezogen, unsere aktuelle Adresse lautet:
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Flinschstr. 35, 60388 Frankfurt am Main](https://goo.gl/maps/qt2J8dzGh4THh6fp7)
+&nbsp;&nbsp;&nbsp;&nbsp;[Flinschstr. 35, 60388 Frankfurt am Main](https://goo.gl/maps/qt2J8dzGh4THh6fp7 "Auf Google Maps öffnen")
 
 Nahe U-Bahn-Station Gwinnerstraße (U4, U7), Parkplätze auf der Straße sind in der Regel ausreichend vorhanden.
 
@@ -38,4 +38,4 @@ Nahe U-Bahn-Station Gwinnerstraße (U4, U7), Parkplätze auf der Straße sind in
 Wir haben einen Monatsbeitrag wenn man Vereinsmitglied werden möchte oder einen Tagesbeitrag von 10€, der an der Teilnahme eines Treffens 'berechtigt'. 
 Das erste mal vorbeischauen ist allerdings gratis.
 
-Solltest Du Mitglied werden, sprich uns an und bring das ausgefüllte [Antragsformular](documents/Aufnahmeantrag.pdf) & [Datenschutzverordnung](documents/DSGVO.pdf) mit.
+Solltest Du Mitglied werden, sprich uns an und bring das ausgefüllte [Antragsformular (pdf)](documents/Aufnahmeantrag.pdf) & [Datenschutzverordnung (pdf)](documents/DSGVO.pdf) mit.

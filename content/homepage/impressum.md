@@ -24,7 +24,7 @@ header_menu: true
 
 #### Tabletop- & Boardgamegemeinschaft Frankfurt e.V.
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Flinschstr. 35, 60388 Frankfurt am Main](https://goo.gl/maps/qt2J8dzGh4THh6fp7)
+&nbsp;&nbsp;&nbsp;&nbsp;[Flinschstr. 35, 60388 Frankfurt am Main](https://goo.gl/maps/qt2J8dzGh4THh6fp7 "Auf Google Maps öffnen")
 
 ##### Vertretungsberechtigte
 
