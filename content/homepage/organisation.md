@@ -21,7 +21,7 @@ header_menu: true
 ---
 ----
 
-##### Wann trefft ihr euch immer?
+##### Wann treffen wir uns?
 
 Wann eine Clubtreffung stattfindet könnt ihr immer im Discord unter „Clubtreffen“ finden. Dort wird für jedes Treffen ein Channel erstellt und auch gepostet wer kommt und was er spielen möchte. Natürlich kann man auch ohne Voranmeldung einfach mal vorbeischauen. Es bietet sich aber an, dort eine Verabredung zu treffen, damit auch ein Gegenspieler da ist.
 
@@ -35,7 +35,7 @@ Nahe U-Bahn-Station Gwinnerstraße (U4, U7), Parkplätze auf der Straße sind in
 
 ##### Was kostet die Teilnahme?
 
-Wir haben einen Monatsbeitrag wenn man Vereinsmitglied werden möchte oder einen Tagesbeitrag von 10€, der an der Teilnahme eines Treffens 'berechtigt'. 
+Wir haben einen Monatsbeitrag wenn man Vereinsmitglied werden möchte oder einen Tagesbeitrag von 10€, der an der Teilnahme eines Treffens 'berechtigt'.  
 Das erste mal vorbeischauen ist allerdings gratis.
 
-Solltest Du Mitglied werden, sprich uns an und bring das ausgefüllte [Antragsformular (pdf)](documents/Aufnahmeantrag.pdf) & [Datenschutzverordnung (pdf)](documents/DSGVO.pdf) mit.
+Solltest Du Mitglied werden wollen, sprich uns an und bring das ausgefüllte [Antragsformular (pdf)](documents/Aufnahmeantrag.pdf) & [Datenschutzverordnung (pdf)](documents/DSGVO.pdf) mit.

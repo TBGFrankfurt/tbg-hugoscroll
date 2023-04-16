@@ -24,7 +24,7 @@ header_menu: true
 
 [{{< figure src="images/t3-ffm.png" width="50%">}}](https://t3ffm.com/ "Auf zur Webseite von Terminal Entertainment")
 **Support Your Local Hobby Shop!**  
-Mit seinen reichhaltigem Angebot und guten Kundensupport bietet der T3 Frankfurt alles was man so braucht. Durch seine gute Lage an der Konstablerwache ist er aus jedem Teil Frankfurts hervorragend zu erreichen.
+Mit seinem reichhaltigen Angebot und guten Kundensupport bietet der T3 Frankfurt alles was man so braucht. Durch seine gute Lage an der Konstablerwache ist er aus jedem Teil Frankfurts hervorragend zu erreichen.
 
 ##### QuestHub!
 
