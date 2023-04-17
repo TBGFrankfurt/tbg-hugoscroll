@@ -33,9 +33,9 @@ Wir sind gerade in neue Räumlichkeiten umgezogen, unsere aktuelle Adresse laute
 
 Nahe U-Bahn-Station Gwinnerstraße (U4, U7), Parkplätze auf der Straße sind in der Regel ausreichend vorhanden.
 
-##### Was kostet die Teilnahme?
+##### Wie kann ich teilnehmen?
 
-Wir haben einen Monatsbeitrag wenn man Vereinsmitglied werden möchte oder einen Tagesbeitrag von 10€, der an der Teilnahme eines Treffens 'berechtigt'.  
-Das erste mal vorbeischauen ist allerdings gratis.
+Als Verein sind wir auf aktive Mitglieder angewiesen. Wir haben einen Monatsbeitrag für Vereinsmitglieder.   
+Solltest Du Mitglied werden wollen, sprich uns zu den Bedingungen an und bring das ausgefüllte [Antragsformular (pdf)](documents/Aufnahmeantrag.pdf) & [Datenschutzverordnung (pdf)](documents/DSGVO.pdf) mit.
 
-Solltest Du Mitglied werden wollen, sprich uns an und bring das ausgefüllte [Antragsformular (pdf)](documents/Aufnahmeantrag.pdf) & [Datenschutzverordnung (pdf)](documents/DSGVO.pdf) mit.
+Bzgl. der Regelung für Nicht-Mitglieder, schau Dir bitte die aktuell gültige Regelung in unserem [Discord](https://discord.gg/AvVvjJa "Discord Einladung") an.
