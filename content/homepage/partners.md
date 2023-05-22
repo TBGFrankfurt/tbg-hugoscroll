@@ -30,4 +30,4 @@ Mit seinem reichhaltigen Angebot und guten Kundensupport bietet der T3 Frankfurt
 
 [{{< figure src="images/questhub-ffm.png" width="50%">}}](https://questhub-frankfurt.myshopify.com/ "Auf zur Webseite vom QuestHub!")
 **Support Your Local Hobby Shop!**  
-Das QuestHub! hat in Frankfurt grade neu auf gemacht und bereichert unsere Gegend mit einem Tabletopstore in den man auch spielen kann und soll! Fußläufig von Galluswarte ist er auch gut erreichbar.
+Das QuestHub! bereichert unsere Gegend mit einem Tabletopstore, in den man auch spielen kann und soll! Fußläufig von Galluswarte ist er auch gut erreichbar.

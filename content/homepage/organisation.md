@@ -23,11 +23,11 @@ header_menu: true
 
 ##### Wann treffen wir uns?
 
-Wann eine Clubtreffung stattfindet könnt ihr immer im Discord unter „Clubtreffen“ finden. Dort wird für jedes Treffen ein Channel erstellt und auch gepostet wer kommt und was er spielen möchte. Natürlich kann man auch ohne Voranmeldung einfach mal vorbeischauen. Es bietet sich aber an, dort eine Verabredung zu treffen, damit auch ein Gegenspieler da ist.
+Wann ein Spieltreffen stattfindet kannst Du immer im Discord unter „Treffen“ finden. Dort wird für jedes Treffen ein Channel erstellt und auch gepostet wer kommt und was zu spielen gewünscht wird. Natürlich kann man auch ohne Voranmeldung einfach mal vorbeischauen. Es bietet sich aber an, dort eine Verabredung zu treffen, damit auch ein Gegenspieler da ist.
 
 ##### Wo finden die Treffen statt?
 
-Wir sind gerade in neue Räumlichkeiten umgezogen, unsere aktuelle Adresse lautet:
+Unsere aktuelle Adresse lautet:
 
 &nbsp;&nbsp;&nbsp;&nbsp;{{<extlink text="Flinschstr. 35, 60388 Frankfurt am Main" href="https://goo.gl/maps/qt2J8dzGh4THh6fp7">}}
 
@@ -36,6 +36,7 @@ Nahe U-Bahn-Station Gwinnerstraße (U4, U7), Parkplätze auf der Straße sind in
 ##### Wie kann ich teilnehmen?
 
 Als Verein sind wir auf aktive Mitglieder angewiesen. Wir haben einen Monatsbeitrag für Vereinsmitglieder.   
-Solltest Du Mitglied werden wollen, sprich uns zu den Bedingungen an und bring das ausgefüllte [Antragsformular (pdf)](documents/Aufnahmeantrag.pdf) & [Datenschutzverordnung (pdf)](documents/DSGVO.pdf) mit.
+Solltest Du Mitglied werden wollen, sprich uns zu den Bedingungen an und bring das ausgefüllte [Antragsformular (pdf)](documents/Aufnahmeantrag.pdf) & [Datenschutzverordnung (pdf)](documents/DSGVO.pdf) mit.  
+[Satzung des Vereins Tabletop- und Boardgamegemeinschaft Frankfurt - Stand 25-05-20 (pdf)](documents/Satzung_des_Vereins_TBG.pdf)
 
 Bzgl. der Regelung für Nicht-Mitglieder, schau Dir bitte die aktuell gültige Regelung in unserem {{<extlink text="Discord" href="https://discord.gg/AvVvjJa">}} an.
