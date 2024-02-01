@@ -32,6 +32,8 @@ Wir spielen eine große Anzahl unterschiedlicher Tabletop-Systeme. Hier eine Aus
 ##### Fantasy
 
 - Warhammer Age of Sigmar
+- Warhammer The Old World
+- Mordheim
 - Warhammer WarCry
 - Warmaster
 - Bloodbowl
