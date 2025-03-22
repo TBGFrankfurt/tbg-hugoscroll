@@ -49,6 +49,7 @@ Wir spielen eine große Anzahl unterschiedlicher Tabletop-Systeme. Hier eine Aus
 - Bolt Action
 - Flames of War
 - Saga
+- The Silver Bayonet
 
 ##### Weitere
 
